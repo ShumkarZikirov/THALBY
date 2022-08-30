@@ -1,0 +1,55 @@
+.main-cards .container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.cards-top{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+   max-width: 700px;
+    height: 260px;
+}
+.cards-top-h1{
+    font-size: 36px;
+}
+.cards-top-p{
+    max-width: 580px;
+    font-size: 20px;
+    margin: auto;
+    font-weight: 400;
+}
+.cards-top-pt{
+    margin: auto;
+    font-size: 20px;
+}
+.ss{
+    text-align: center;
+    margin-top: 60px;
+}
+.cards-main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 52px;
+}
+.card-info{
+    margin: auto;
+    width: 156px;
+}
+.card-info-ttl{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 27px;
+}
+.card-price{
+    font-size: 17px;
+    text-align: center;
+    margin: 17px 0 10px 0;
+}
+.card-a{
+    font-size: 17px;
+    margin-left: 35px;
+    font-weight: 600;
+    border-bottom: 2px solid black;
+}

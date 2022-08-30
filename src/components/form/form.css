@@ -1,0 +1,56 @@
+.container-fl{
+    max-width: 480px;
+    margin: auto;
+}
+.main-form{
+    margin: 79px 0 88px 0;
+    display: flex;
+    flex-direction: column;
+}
+.form-h3{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+}
+.formh4{
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    margin: 9px 0 26px 0;
+}
+
+.form-name{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 18px;
+}
+.form-name input{
+    width: 153px;
+    height: 39px;
+    border: 1px solid black;
+}
+.form-name input::placeholder{
+    font-size: 14px;
+    padding: 10px;
+}
+.form-email{
+    width: 392px;
+    height: 39px;
+    border: 1px solid black;
+    margin: auto;
+}
+.form-email::placeholder{
+    font-size: 14px;
+    padding: 10px;
+}
+
+.form-btn{
+    width: 115px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    font-size: 14px;
+    margin: 16px auto;
+    padding: 10px 20px;
+}
+

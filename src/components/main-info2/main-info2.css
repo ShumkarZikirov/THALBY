@@ -1,0 +1,32 @@
+.block2{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-top: 76px;
+}
+.blocks2{
+    height: 652px;
+    background-color: rgba(204, 204, 204, 0.59);
+}
+.main-info-ttl{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-right: 50px;
+
+}
+.info-ttl-h4{
+    font-size: 36px;
+    text-align: right;
+}
+.info-ttl-p2{
+    font-size: 36px;
+    float: right;
+    text-align: right;
+}
+.info-ttl-a2{
+    font-size: 17px;
+    font-weight: 600;
+    border-bottom: 2px solid black;
+    width: 160px;
+    margin-left: 420px;
+}

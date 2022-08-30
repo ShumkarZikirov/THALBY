@@ -1,0 +1,38 @@
+.container{
+    max-width: 1064px;
+    margin: auto;
+}
+.header-nav{
+    height: 56px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.left-nav-ul{
+    display: flex;
+    flex: 1;
+}
+
+
+.left-nav-a{
+    margin-right: 28px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.logo{
+    flex: 2;
+    margin-left: 68px;
+}
+.logo-a{
+    font-size: 30px;
+    font-weight: 700;
+}
+.right-nav-ul{
+    display: flex;
+    flex: 1;
+}
+.right-a{
+    margin-left: 27px;
+    font-size: 18px;
+}
+

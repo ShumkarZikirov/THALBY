@@ -1,0 +1,26 @@
+.block{
+    display: flex;
+    padding-top: 76px;
+}
+.blocks3{
+    height: 652px;
+    background-color: rgba(204, 204, 204, 0.3);
+}
+.main-info-ttl{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+.info-ttl-h2{
+    font-size: 36px;
+}
+.info-ttl-p{
+    font-size: 36px;
+}
+.info-ttl-a{
+    font-size: 17px;
+    font-weight: 600;
+    border-bottom: 2px solid black;
+    width: 160px;
+}
